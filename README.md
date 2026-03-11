@@ -20,7 +20,7 @@ A fast multi-threaded TCP port scanner written in Python for cybersecurity learn
 
 Clone the repository:
 
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/Tariq-almalky/port-scanner.git
 
 cd port-scanner
 
